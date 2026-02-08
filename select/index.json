@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "バレる！",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-02-08T14:13:18.679271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バレる!",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_バレる!_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バレる！",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_バレる!_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バレる! (Acapella)",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/03_バレる!_(Acapella)_Creepy_Nuts.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バレる! (出囃子ver.)",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/04_バレる!_(出囃子ver.)_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バレる！ - Bareru!",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/05_バレる!_-_Bareru!_Creepy_Nuts.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バレる!",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_バレる!_CreepyNuts.txt"
+    }
+  ]
+}
